@@ -111,3 +111,12 @@ ul {
 .imgOutubroRosa {
   width: 4vw;
 }
+
+.containerMenu1 {
+  ul {
+    :hover {
+      color: #ad1f66;
+      transition: all 0.3s ease;
+    }
+  }
+}
