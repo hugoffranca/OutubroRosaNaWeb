@@ -16,8 +16,9 @@
   color: #e4eef1;
   width: 100%;
 }
-.containerCabecalho p {
+.containerCabecalho h1 {
   font-size: 3vh;
+  font-weight: normal;
 }
 
 section {
