@@ -175,11 +175,20 @@ ul {
 
     nav {
       width: 74%;
-      height: 5vh;
+      height: 10vh;
     }
 
+    li {
+      img {
+        width: 50%;
+      }
+    }
     img {
       width: 10%;
     }
+  }
+
+  .descricao {
+    height: 21vh;
   }
 }

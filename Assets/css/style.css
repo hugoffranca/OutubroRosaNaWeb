@@ -154,9 +154,15 @@ ul a {
   }
   .containerMenu2 nav {
     width: 74%;
-    height: 5vh;
+    height: 10vh;
+  }
+  .containerMenu2 li img {
+    width: 50%;
   }
   .containerMenu2 img {
     width: 10%;
+  }
+  .descricao {
+    height: 21vh;
   }
 }/*# sourceMappingURL=style.css.map */
